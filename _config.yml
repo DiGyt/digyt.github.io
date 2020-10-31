@@ -21,7 +21,7 @@ description: "This is my blog. It's not yet ready."
 url: https://digyt.github.io
 twitter_username: dirkguetlin
 github_username: DiGyt
-minimal_mistakes_skin: mint # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: dirt # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings
@@ -53,7 +53,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -62,12 +62,12 @@ author:
   avatar : "https://avatars1.githubusercontent.com/u/50220475?s=460&v=4"
   bio    : "Whoah, someone is reading this?"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://alexanderjdupree.github.io"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://alexanderjdupree.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/alexanderjdupree"
+      url: "https://github.com/DiGyt"
 
 footer:
   links:
@@ -77,9 +77,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
