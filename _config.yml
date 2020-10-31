@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Bayes, pragmatics, evolution etc.
-email: mchfranke@gmail.com
+title: Brains, Artificial Brains, and how to deal with them.
+email: dirk.guetlin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  thoughts on language, science, modeling, statistics and such
+  This text will appear at the bottom of the page. Not sure what to do with it yet.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: meanwhileina
-github_username:  michael-franke
+url: "https://digyt.github.io/" # the base hostname & protocol for your site
+twitter_username: dirkguetlin
+github_username:  DiGyt
 
 # Build settings
 markdown: kramdown
