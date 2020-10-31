@@ -1,28 +1,58 @@
-# Project Pages
+# Strata Reloaded
 
-Project Pages is Jekyll Template specifically geared towards collaborative science. For more information, click [here](https://github.com/projectpages/project-pages/wiki/).
+Simple, clean personal blogging template for Jekyll based on Strata by HTML5 UP.
 
-# Nav Bar Jumbles
+![Strata Reloaded template screenshot](images/_screenshot.png)
 
-If you have seemingly random pages popping up on your Nav Bar recently, this is due to the fact that GitHub/Jekyll changed a fundemental rule they used to render pages. 
+## Features
 
-## CAUSE:
-It used to be that if a markdown file didn't have `---` frontmatter at the beginning, it wasn't rendered as a page. This was changed very recently (like in the last 2 days) so that every markdown file anywhere no matter what gets rendered as a page.  
+* Parallax background effect
+* Lightbox gallery
+* Pre-styled components
+* Blog with pagination
+* Configurable footer
+* Optimized for editing in [CloudCannon](http://cloudcannon.com/)
+* RSS/Atom feed
+* SEO tags
+* Google Analytics
+* Webmaster Verification
 
-## FIX:
+## Develop
 
-1) Go to:
+1. Add your site and author details in `_config.yml`.
+2. Add your Google Analytics key to `_config.yml`.
+3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
-`project-pages/plugin/projector/` or `yourreponame/plugin/projector/` and delete the `README.md` file. This can be done graphically for the non-Git-savvy by simply going to your:
+## Develop
 
-GitHub account -> Your Profile -> Repositories -> Project-Pages/Your Repo -> Plugin -> projector 
+Urban was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
-and clicking on the files, then clicking on the "thrash can / delete this file" icon on the top right corner of the file.
+Install the dependencies with [Bundler](http://bundler.io/):
 
-2) Go to:
+~~~bash
+$ bundle install
+~~~
 
-`project-pages/css/theme/` or `yourreponame/css/theme/` and delete the `README.md` file. This can be done graphically for the non-Git-savvy by simply going to your:
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-GitHub account -> Your Profile -> Repositories -> Project-Pages/Your Repo -> Plugin -> projector 
+~~~bash
+$ bundle exec jekyll serve
+~~~
 
-and clicking on the files, then clicking on the "thrash can / delete this file" icon on the top right corner of the file.
+## Editing
+
+Strata Reloaded is already optimized for adding, updating and removing posts and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+
+### Posts
+
+* Add, update or remove a post in the *Posts* collection.
+* Change the defaults when new posts are created in `_posts/_defaults.md`.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Footer* section.
+
+## License
+
+Free for personal and commercial use under the CCA 3.0 license. See LICENSE file for additional information and terms of use. This theme was adapted from Strata by HTML5 UP for use with [CloudCannon](http://cloudcannon.com) by [Comfusion LLC](http://comfusionllc.com).
