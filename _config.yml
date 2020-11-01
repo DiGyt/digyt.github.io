@@ -20,7 +20,7 @@ title                    : "DiGyt's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dirk Gütlin"
-description              : "My personal blog."
+description              : "A collection of (hopefully) useful texts and code snippets, concerning neuroscience, brains, deep learning, statistics, and complex systems."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
