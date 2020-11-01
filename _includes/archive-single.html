@@ -14,7 +14,7 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork" style="padding-bottom:5%">
     {% if (page.layout == "archive" or page.layout == "tags") and teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="" class="responsive" style="object-fit:cover;object-position:center;width:100%;height:70px;">
+        <img src="{{ teaser | relative_url }}" alt="" class="responsive" style="object-fit:cover;object-position:center;width:100%;height:100px;">
       </div>
     {% elsif teaser %}
       <div class="archive__item-teaser">
@@ -23,7 +23,7 @@
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline" style="padding-top:2%;">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}" >{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
