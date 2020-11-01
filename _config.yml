@@ -272,8 +272,8 @@ defaults:
       share: true
       related: true
       header:
-        overlay_image: assets/images/Firefox_wallpaper.png
-        teaser: "/assets/images/Firefox_wallpaper.png"
+        overlay_image: assets/images/standard_background.jpg
+        teaser: "/assets/images/standard_background.jpg"
   # _pages
   - scope:
       path: ""
@@ -282,5 +282,5 @@ defaults:
       layout: "my-site"
       author_profile: true
       header:
-        overlay_image: assets/images/Firefox_wallpaper.png
-        og_image: assets/images/Firefox_wallpaper.png
+        overlay_image: assets/images/standard_background.jpg
+        og_image: assets/images/standard_background.jpg
