@@ -1,7 +1,6 @@
 ---
 title: About
 permalink: /about/
-taxonomy: markup
 author_profile: true
 ---
 
