@@ -13,8 +13,8 @@
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if (page.layout == "archive" or page.layout == "tags") and teaser %}
-      <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="" class="responsive" style="width:30%;height:auto;padding-top:5%;">
+      <div class="archive__item-teaser" style="width:30%;height:auto;padding-top:5%;">
+        <img src="{{ teaser | relative_url }}" alt="" class="responsive">
       </div>
     {% elsif teaser %}
       <div class="archive__item-teaser">
