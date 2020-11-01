@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -271,6 +271,9 @@ defaults:
       comments: # true
       share: true
       related: true
+      header:
+        overlay_image: assets/images/Firefox_wallpaper.png
+        teaser: "/assets/images/Firefox_wallpaper.png"
   # _pages
   - scope:
       path: ""
@@ -281,4 +284,3 @@ defaults:
       header:
         overlay_image: assets/images/Firefox_wallpaper.png
         og_image: assets/images/Firefox_wallpaper.png
-        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
