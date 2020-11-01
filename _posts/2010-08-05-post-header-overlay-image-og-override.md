@@ -1,13 +1,13 @@
 ---
 title: "Post: Overlay Image with OpenGraph Override"
 header:
-  teaser: assets/images/Firefox_wallpaper.png
+  teaser: "/assets/images/Firefox_wallpaper.png"
   overlay_image: assets/images/Firefox_wallpaper.png
   og_image: assets/images/Firefox_wallpaper.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "Learn more"
-      url: "https://unsplash.com"
+  #actions:
+  #  - label: "Learn more"
+  #    url: "https://unsplash.com"
 categories:
   - Layout
   - Uncategorized
