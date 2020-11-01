@@ -1,8 +1,8 @@
 ---
-layout: splash
+layout: tags
 title: "Home"
 permalink: /
-author_profile: true
+author_profile: false
 header:
     overlay_image: false
 ---
