@@ -21,4 +21,5 @@ because I think that it gives people very direct access to playing around with P
 code, without the need to install complicated libraries.
 
 The source code for this web page is hosted here: [github.com/DiGyt/digyt.github.io](github.com/DiGyt/digyt.github.io).
+
 Feel free to use it for your own blog if you want to.
