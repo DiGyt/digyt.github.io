@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BaBahtdwt"
+title                    : "DiGyt's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dirk Gütlin"
@@ -272,7 +272,7 @@ defaults:
       share: true
       related: true
       header:
-        image: assets/images/standard_background.jpg
+        overlay_image: assets/images/standard_background.jpg
         overlay_filter: 0.5
         teaser: "/assets/images/standard_background.jpg"
   # _pages
