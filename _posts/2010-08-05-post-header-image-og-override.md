@@ -2,7 +2,6 @@
 title: "Post: Header Image with OpenGraph Override"
 header:
   image: assets/images/TRF_crosse.jpg
-  og_image: assets/images/Firefox_wallpaper.png
 categories:
   - Layout
   - Uncategorized
