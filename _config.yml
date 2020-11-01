@@ -274,7 +274,7 @@ defaults:
       header:
         overlay_image: assets/images/standard_background.jpg
         overlay_filter: 0.5
-        teaser: "/assets/images/standard_background.jpg"
+        teaser: "/assets/images/standard_teaser.jpg"
   # _pages
   - scope:
       path: ""
@@ -285,3 +285,4 @@ defaults:
       header:
         overlay_image: assets/images/standard_background.jpg
         og_image: assets/images/standard_background.jpg
+        overlay_filter: 0.5
