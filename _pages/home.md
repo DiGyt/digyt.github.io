@@ -7,7 +7,8 @@ header:
     overlay_image: false
 ---
 
-Welcome to by blog.
+Welcome to my blog.
+
 Here I try to collect some thoughts and code on the topics of 
 Neuroscience, Data Analysis, Neural Networks, Machine Learning, Statistics and 
 Complex Systems in general.
