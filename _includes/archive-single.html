@@ -14,7 +14,7 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if (page.layout == "archive" or page.layout == "tags") and teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="" class="responsive" style="width:30%;height:auto;max-height:5%;">
+        <img src="{{ teaser | relative_url }}" alt="" class="responsive" style="width:30%;height:auto;max-height:5%;padding-top:5%">
       </div>
     {% elsif teaser %}
       <div class="archive__item-teaser">
