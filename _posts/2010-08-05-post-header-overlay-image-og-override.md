@@ -3,7 +3,7 @@ title: "Post: Overlay Image with OpenGraph Override"
 header:
   teaser: "/assets/images/extra_image.png"
   overlay_image: assets/images/extra_image.png
-  caption: "Photo credit: [**Website**](https://google.com)"
+  caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Mapping_the_Connection_Matrix_of_the_Human_Brain.png)"
   #actions:
   #  - label: "Learn more"
   #    url: "https://unsplash.com"
