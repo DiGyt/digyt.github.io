@@ -2,7 +2,7 @@
 main:
   - title: 'Home'
     url: /
-  - title: 'Blog'
+  - title: 'Blog Posts by topic'
     url: /tags/
   - title: 'About'
     url: /about/
