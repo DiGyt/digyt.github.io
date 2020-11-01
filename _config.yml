@@ -264,9 +264,21 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
       layout: single
       author_profile: true
       read_time: false
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "my-site"
+      author_profile: true
+      header:
+        overlay_image: assets/images/Firefox_wallpaper.png
+        og_image: assets/images/Firefox_wallpaper.png
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
