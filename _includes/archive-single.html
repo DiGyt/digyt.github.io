@@ -13,7 +13,7 @@
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork" style="padding-top:5%;border: 1px solid black;">
     {% if (page.layout == "archive" or page.layout == "tags") and teaser %}
-      <div class="archive__item-teaser" style="border: 1px solid black;">
+      <div class="archive__item-teaser" style="border: 1px solid black;margin-bottom:0px;">
         <img src="{{ teaser | relative_url }}" alt="" class="responsive" style="object-fit:cover;object-position:center;width:100%;height:150px;border: 1px solid black;">
       </div>
     {% elsif teaser %}
@@ -21,7 +21,7 @@
         <img src="{{ teaser | relative_url }}" alt="" class="responsive">
       </div>
     {% endif %}
-    <h3 class="archive__item-title no_toc" itemprop="headline" style="padding-top:2%;border: 1px solid black;">
+    <h3 class="archive__item-title no_toc" itemprop="headline" style="padding-top:2%;border: 1px solid black;margin-top:0px;">
       {% if post.link %}
         <a href="{{ post.link }}" >{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
