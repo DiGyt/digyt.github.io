@@ -1,0 +1,119 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Practical Graph
+subtitle: 'Providing practical advice on all things graph'
+logo: '/assets/images/logo-small.png'
+email:
+twitter_username: username
+github_username: username
+minimal_mistakes_skin: dirt
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: blog/page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+breadcrumbs: true
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name: 'Practical Graph'
+  avatar: '/assets/images/logo.png'
+  bio: 'Providing practical advice about graphs and graph databases'
+  links:
+    - label: 'Website'
+      icon: 'fas fa-fw fa-link'
+      url: 'https://practicalgraph.com'
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/practicalgraph'
+    - label: 'Graph Databases in Action'
+      icon: 'fab fa-fw fa-book'
+      url: 'https://bit.ly/38a1fV5'
+
+footer:
+  links:
+    - label: 'Website'
+      icon: 'fas fa-fw fa-link'
+      url: 'https://practicalgraph.com'
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/practicalgraph'
+    - label: 'Book - Graph Databases in Action'
+      icon: 'fab fa-fw fa-book'
+      url: 'https://bit.ly/38a1fV5'
+
+defaults:
+  # _pages
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: single
+    classes: wide
+  # _posts
+  - scope:
+      path: '_posts'
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+    classes: wide
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+analytics:
+  provider: 'google-gtag'
+  google:
+    tracking_id: 'UA-181302380-1'
+    anonymize_ip: false # default
+
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"

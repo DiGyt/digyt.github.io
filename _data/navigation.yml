@@ -1,0 +1,30 @@
+main:
+  - title: 'Home'
+    url: /
+  - title: 'Blog'
+    url: /posts/
+  - title: 'About'
+    url: /about/
+toc:
+  - title: 'Home'
+    url: /
+  - title: 'Graph Databases'
+    url: /graph/
+    children:
+      - title: 'Types of Databases'
+        url: /graph/types
+      - title: 'Database Vendors'
+        url: /graph/vendors
+  - title: 'Data Modeling'
+    url: /modeling/
+  - title: 'Blog'
+    url: /posts/
+    children:
+      - title: 'Categories'
+        url: /categories/
+      - title: 'Tags'
+        url: /tags/
+  - title: 'About'
+    url: /about/
+  - title: 'Contributing'
+    url: /contributing/
