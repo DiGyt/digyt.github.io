@@ -5,10 +5,12 @@
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
 
 This repository was forked from: [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+
 However, I added some style changes to better work for my ideas. If you want to build your own website,
 feel free to clone this repo, or the [original](https://github.com/mmistakes/).
 
 Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building personal sites, blogs, and portfolios. As the name implies, styling is purposely minimalistic to be enhanced and customized by you :smile:.
+
 [![Minimal Mistakes live preview][2]][1]
 
 [1]: https://mmistakes.github.io/minimal-mistakes/
