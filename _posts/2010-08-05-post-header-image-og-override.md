@@ -1,7 +1,7 @@
 ---
 title: "Post: Header Image with OpenGraph Override"
 header:
-  image: assets/images/TRF_crosse.jpg
+  image: assets/images/extra_image.png
 categories:
   - Layout
   - Uncategorized
