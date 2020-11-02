@@ -11,7 +11,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork" style="padding-top:5%;">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork" style="padding-top:10%;">
     {% if (page.layout == "archive" or page.layout == "tags") and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="" class="responsive" style="object-fit:cover;object-position:center;width:100%;height:150px;">
