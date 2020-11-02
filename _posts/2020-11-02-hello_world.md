@@ -13,5 +13,8 @@ tags:
 last_modified_at: 2020-11-02T01:11:19-04:00
 ---
 
-Hello everyone! This is the first post in this blog. It's totally uninformative, but that's 
+Hello everyone!
+
+
+This is the first post in this blog. It's totally uninformative, but that's 
 okay for now. My future posts will be better. Promise!
