@@ -3,16 +3,17 @@ title: "Neuropynamics"
 header:
   teaser: "assets/images/posts/neuropynamics.png"
   overlay_image: "assets/images/posts/neuropynamics.png"
+  overlay_text: ""
 tags:
   - Neuroscience
   - Dynamical Systems
   - Neural Networks
 ---
 
--
+__
 
-If you ever wanted to get in touch with the field of neurodynamics, understand the complex behavior of different neuron 
-simulations or just wanted to play around with the parameters of a hodgkin-huxley model, this might be the place for you:
+If you ever wanted to get in touch with the field of Neurodynamics, understand the complex behavior of different neuron 
+simulations or just wanted to play around with the parameters of a Hodgkin-Huxley model, this might be the place for you:
 
 Checkout this collection of introductory notebooks into the field of neurodynamics at 
 [github.com/DiGyt/neuropynamics](github.com/DiGyt/neuropynamics)
