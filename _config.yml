@@ -265,7 +265,7 @@ defaults:
       type: posts
     values:
       show_date: true
-      layout: single
+      layout: "my-site" # single
       author_profile: true
       read_time: false
       comments: # true
