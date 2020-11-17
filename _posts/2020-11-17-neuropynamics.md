@@ -11,7 +11,6 @@ tags:
   - Neural Networks
 ---
 
-
 If you ever wanted to get in touch with the field of Neurodynamics, understand the complex behavior of different neuron 
 simulations or just wanted to play around with the parameters of a Hodgkin-Huxley model, this might be the place for you:
 
