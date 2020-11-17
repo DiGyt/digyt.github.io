@@ -16,7 +16,7 @@ If you ever wanted to get in touch with the field of Neurodynamics, understand t
 simulations or just wanted to play around with the parameters of a Hodgkin-Huxley model, this might be the place for you:
 
 Checkout this collection of introductory notebooks into the field of neurodynamics at 
-[github.com/DiGyt/neuropynamics](github.com/DiGyt/neuropynamics)
+[github.com/DiGyt/neuropynamics](https://github.com/DiGyt/neuropynamics)
 
 Neuropynamics is a course project I created with Lucas Feldmann and Hunaid Hameed for the 2020 Neurodynamics lecture at 
 the University of Osnabrück. Our aim was to provide some nice tutorials and visualization tools which allow students of 
