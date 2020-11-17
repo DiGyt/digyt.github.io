@@ -19,14 +19,15 @@ Checkout this collection of introductory notebooks into the field of neurodynami
 
 Neuropynamics is a course project I created with Lucas Feldmann and Hunaid Hameed for the 2020 Neurodynamics lecture at 
 the University of Osnabrück. Our aim was to provide some nice tutorials and visualization tools which allow students of 
-Neurodynamics to practically learn about the field by directly simulating the processes. We are using the [Brian2](https://brian2.readthedocs.io/en/stable/)
-toolbox for our simulations, which is one of the largest Python-based toolboxes for simulating spiking neural networks.
-This allows us to do large scale neuron simulations in a matter of seconds.
+Neurodynamics to practically learn about the field by directly simulating the processes.
 
 We use Google Colaboratory in combinations with Jupyter Ipywidgets. This allows you to run these notebooks simply and 
 interactively in your internet browser, without requiring deeper understanding of the Python language and without needing 
 to install anything. You just can run the entire script on Google's hosted runtime, and then click through the examples 
 while adjusting model parameters via ipywidgets.
+The simulations are performed using the [Brian2](https://brian2.readthedocs.io/en/stable/) toolbox, which is one of the 
+largest Python-based toolboxes for simulating spiking neural networks. This allows us to perform large scale neuron 
+simulations in a matter of seconds.
 
 Just try it out by yourself by opening one of the below notebooks.
 
