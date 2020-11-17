@@ -28,7 +28,6 @@ while adjusting model parameters via ipywidgets.
 
 Just try it out by yourself by opening one of the below notebooks.
 
-## Available notebooks
 
 ### Single neurons
 
