@@ -1,15 +1,15 @@
 ---
-title: "Neuropynamics Repository"
+title: "Neuropynamics"
 header:
   teaser: "assets/images/posts/neuropynamics.png"
   overlay_image: "assets/images/posts/neuropynamics.png"
 tags:
   - Neuroscience
-  - Dynamic Systems
+  - Dynamical Systems
   - Neural Networks
 ---
 
-
+-
 
 If you ever wanted to get in touch with the field of neurodynamics, understand the complex behavior of different neuron 
 simulations or just wanted to play around with the parameters of a hodgkin-huxley model, this might be the place for you:
