@@ -1,6 +1,6 @@
 ---
 title: "Neuropynamics"
-excerpt: "A hands-on introduction into Neurodynamics."
+excerpt: "A simple and interactive collection of introductory notebooks into Neurodynamics."
 header:
   teaser: "assets/images/posts/neuropynamics.png"
   overlay_image: "assets/images/posts/neuropynamics.png"
