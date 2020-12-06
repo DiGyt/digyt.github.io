@@ -15,7 +15,7 @@ In the following script, you can investigate Python implementations for a number
 
 
 <style>
-.render-viewer{height:5000px !important}
+iframe{height:12800px !important}
 </style>
 
 <div style="margin-right:-30%;">
