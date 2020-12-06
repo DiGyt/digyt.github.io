@@ -2463,7 +2463,7 @@ table th[class*="col-"] {
 }
 @media screen and (max-width: 767px) {
   .table-responsive {
-    width: 100%;
+    width: 80%;
     margin-bottom: 13.5px;
     overflow-y: hidden;
     -ms-overflow-style: -ms-autohiding-scrollbar;
