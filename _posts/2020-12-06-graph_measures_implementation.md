@@ -15,10 +15,6 @@ In the following script, you can investigate Python implementations for a number
 
 
 <html>
-<style type="text/css">
-  .gist {max-width:100%;overflow:auto;}
-  .gist .blob-wrapper.data {max-height:10000px;overflow:auto;}
-</style>
 
 <script src="https://gist.github.com/DiGyt/3c06126e678e4b35afdec43a4943917d.js"></script>
 </html>
