@@ -15,4 +15,4 @@ In the following script, you can investigate Python implementations for a number
 
 
 
-{% gist 3c06126e678e4b35afdec43a4943917d %}
+<script src="http://gist-it.appspot.com/http://github.com/DiGyt/snippets/raw/master/graph_measures_implementation.ipynb"></script>
