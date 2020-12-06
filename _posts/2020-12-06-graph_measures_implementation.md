@@ -14,6 +14,9 @@ Making Sense of networks can be hard. In some cases, using graph theory can help
 In the following script, you can investigate Python implementations for a number of graph theory measures which we used to analyze brain connectivity patterns.
 
 
+<style>
+.render-viewer{height:5000px !important}
+</style>
 
 <div style="margin-right:-30%;">
   <script src="https://gist.github.com/DiGyt/3c06126e678e4b35afdec43a4943917d.js"></script>
