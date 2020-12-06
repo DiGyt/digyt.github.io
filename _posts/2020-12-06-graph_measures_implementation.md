@@ -15,4 +15,10 @@ In the following script, you can investigate Python implementations for a number
 
 
 
-<script src="http://gist-it.appspot.com/http://github.com/DiGyt/snippets/raw/master/graph_measures_implementation.ipynb"></script>
+<style type="text/css">
+  .gist {width:100% !important; margin-right:-30%;}
+  .gist-file
+  .gist-data {max-height: 10000px;max-width: 100%;}
+</style>
+
+<script src="https://gist.github.com/DiGyt/3c06126e678e4b35afdec43a4943917d.js"></script>
