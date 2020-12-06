@@ -1,6 +1,6 @@
 ---
-title: "Graph Measure Implementations"
-excerpt: "A collection of graph measures to compute on numpy arrays."
+title: "Large graphs and small worlds"
+excerpt: "A collection of weighted graph measures to compute on numpy arrays."
 header:
   teaser: "assets/images/posts/graph_measures_implementation.png"
   overlay_image: "assets/images/posts/graph_measures_implementation.png"
