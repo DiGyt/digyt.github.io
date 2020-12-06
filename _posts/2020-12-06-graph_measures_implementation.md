@@ -14,11 +14,11 @@ Making Sense of networks can be hard. In some cases, using graph theory can help
 In the following script, you can investigate Python implementations for a number of graph theory measures which we used to analyze brain connectivity patterns.
 
 
-
+<html>
 <style type="text/css">
-  .gist {width:100% !important; margin-right:-30%;}
-  .gist-file
-  .gist-data {max-height: 10000px;max-width: 100%;}
+  .gist {max-width:100%;overflow:auto;}
+  .gist .blob-wrapper.data {max-height:10000px;overflow:auto;}
 </style>
 
 <script src="https://gist.github.com/DiGyt/3c06126e678e4b35afdec43a4943917d.js"></script>
+</html>
