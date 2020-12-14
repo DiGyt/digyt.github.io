@@ -18,7 +18,8 @@ In the following script, you can investigate Python implementations for a number
 iframe{height:14000px !important;}
 </style>
 
+<!--
+<div style="margin-right:-30%;"></div>
+-->
+<script src="https://gist.github.com/DiGyt/3c06126e678e4b35afdec43a4943917d.js"></script>
 
-<div style="margin-right:-30%;">
-  <script src="https://gist.github.com/DiGyt/3c06126e678e4b35afdec43a4943917d.js"></script>
-</div>
