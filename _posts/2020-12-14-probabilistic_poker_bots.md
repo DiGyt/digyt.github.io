@@ -17,9 +17,7 @@ last_modified_at: 2020-12-14T10:22:00-04:00
 
 <!-- iframe style-->
 <style>
-iframe{
-  height:20000px !important;
-  overflow:hidden !important;}
+iframe{height:19000px !important;}
 </style>
 
 <script src="https://gist.github.com/DiGyt/2f16695cdf21fe2f5e9a6ecc9d94af41.js"></script>
