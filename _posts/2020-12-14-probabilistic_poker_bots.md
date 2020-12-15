@@ -1,6 +1,6 @@
 ---
 title: "Probabilistic Poker Bots"
-excerpt: "Define automated Poker playing algorithms and play against them."
+excerpt: "Define automated Poker algorithms and play against them."
 header:
   teaser: "/assets/images/posts/poker_wikimedia.jpg"
   overlay_image: "/assets/images/posts/poker_wikimedia.jpg"
