@@ -22,13 +22,13 @@ SGAN architecture as well as the training procedure that we used to generate our
 See for yourself and feel free trying out to train the network on your own texture images:
 
 <style>
-iframe{height:16000px !important;}
+iframe{height:17000px !important;}
 </style>
 
 <script src="https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js"></script>
 
 <style>
-iframe{height:14000px !important;}
+iframe{height:13000px !important;}
 </style>
 
 <script src="https://gist.github.com/DiGyt/107a21458b83e05de67dd745addf3d40.js"></script>
