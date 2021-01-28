@@ -29,7 +29,7 @@ iframe{height:15000px !important;}
 
 <div>
   <style>
-  iframe{height:13000px !important;}
+  iframe{height:13000px;}
   </style>
 
   <script src="https://gist.github.com/DiGyt/107a21458b83e05de67dd745addf3d40.js"></script>
