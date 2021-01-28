@@ -28,7 +28,7 @@ iframe{height:19000px !important;}
 <script src="https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js"></script>
 
 <style>
-iframe{height:19000px !important;}
+iframe{height:18000px !important;}
 </style>
 
 <script src="https://gist.github.com/DiGyt/107a21458b83e05de67dd745addf3d40.js"></script>
