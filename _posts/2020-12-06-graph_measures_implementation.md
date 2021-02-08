@@ -7,7 +7,7 @@ header:
   overlay_text: ""
 tags:
   - Complex Systems
-  - Data Analysis
+  - Data Processing
 ---
 
 Making Sense of networks can be hard. In some cases, using graph theory can help to understand certain properties of the underlying network, even though the network itself is too complex to understand.
