@@ -2,7 +2,7 @@
 title: "Will there be snow on Christmas?"
 excerpt: "A project for the Potsdam Climate Institute's 2021 "AI for Climate" Hackathon."
 header:
-  teaser: "/assets/images/posts/snow_on_christmas.png"
+  teaser: "/assets/images/posts/snow_on_christmas.png "
   overlay_image: "/assets/images/posts/snow_on_christmas.png"
   #caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/)"
   #actions:
