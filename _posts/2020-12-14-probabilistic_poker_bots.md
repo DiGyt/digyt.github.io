@@ -9,7 +9,7 @@ header:
   #  - label: "Learn more"
   #    url: "https://commons.wikimedia.org/wiki/File:Card_games_and_game_tokens_01.jpg"
 tags:
-  - Statstics & Probabilities
+  - Statistics
 last_modified_at: 2020-12-14T10:22:00-04:00
 ---
 
