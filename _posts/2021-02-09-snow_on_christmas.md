@@ -2,11 +2,12 @@
 title: "Will there be snow on Christmas?"
 excerpt: Our challenge-winning project for the Potsdam Climate Institute's 2021 "AI for Climate" Hackathon.
 header:
-  teaser: "assets/images/posts/snow_on_christmas.png"
-  overlay_image: "assets/images/posts/snow_on_christmas.png"
+  teaser: "/assets/images/posts/snow_on_christmas.png"
+  overlay_image: "/assets/images/posts/snow_on_christmas.png"
 tags:
   - Complex Systems
   - Neural Networks
+last_modified_at: 2021-02-23T10:22:00-04:00
 ---
 
 ___
