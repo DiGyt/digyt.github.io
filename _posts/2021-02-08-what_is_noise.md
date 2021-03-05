@@ -1,5 +1,5 @@
 ---
-title: "What is noise (Baby don't hurt me)?"
+title: "What is noise? (Baby don't hurt me)"
 excerpt: "Visualization and automated detection of EEG noise."
 header:
   teaser: "/assets/images/posts/what_is_noise.png"
