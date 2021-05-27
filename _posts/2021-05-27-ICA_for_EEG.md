@@ -1,6 +1,6 @@
 ---
-title: "Independent Component Analysis for EEG <br/>(or: *The topography of evil*)"
-excerpt: An exposition of our noise-induction experiment and investigation of common EEG noise components using MNE-Python.
+title: "Independent Component Analysis for EEG (or: *The topography of evil*)"
+excerpt: "An exposition of our noise-induction experiment and investigation of common EEG noise components using MNE-Python."
   teaser: "/assets/images/posts/ICA_topography_of_evil.png"
   overlay_image: "/assets/images/posts/ICA_topography_of_evil.png"
   #caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/)"
