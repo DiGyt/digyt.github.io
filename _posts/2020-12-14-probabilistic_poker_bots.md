@@ -10,6 +10,7 @@ header:
   #    url: "https://commons.wikimedia.org/wiki/File:Card_games_and_game_tokens_01.jpg"
 tags:
   - Statistics
+  - Artificial Agents
 last_modified_at: 2020-12-14T10:22:00-04:00
 ---
 
