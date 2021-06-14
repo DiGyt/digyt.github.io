@@ -4,7 +4,7 @@ excerpt: A collection, explanation and comparison of various automated EEG clean
 header:
   teaser: "/assets/images/posts/eeg_ar_02.JPG"
   overlay_image: "/assets/images/posts/eeg_ar_02.JPG"
-  overlay_filter: rgba(150, 150, 150, 0.3)
+  overlay_filter: rgba(150, 150, 150, 0.5)
   #caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/)"
   #actions:
   #  - label: "Learn more"
