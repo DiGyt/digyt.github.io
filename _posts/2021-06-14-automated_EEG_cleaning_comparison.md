@@ -1,6 +1,6 @@
 ---
 title: "Automated EEG Cleaning - A Comparison"
-excerpt: A collection, explanation and comparison of various automated EEG cleaning algorithms.
+excerpt: A collection, explanation, and comparison of various automated EEG cleaning algorithms.
 header:
   teaser: "/assets/images/posts/eeg_ar_02.JPG"
   overlay_image: "/assets/images/posts/eeg_ar_02.JPG"
