@@ -1,3 +1,4 @@
+#exclude
 ---
 title: "Independent Component Analysis for EEG <br/>(or: *The topography of evil*)"
 excerpt: An exposition of a noise-induction experiment and investigation of common EEG noise components using MNE-Python.
