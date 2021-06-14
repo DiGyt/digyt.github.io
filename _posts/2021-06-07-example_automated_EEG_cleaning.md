@@ -4,7 +4,7 @@ excerpt: A simple automated EEG cleaning pipeline for MNE-Python.
 header:
   teaser: "/assets/images/posts/eeg_02.JPG"
   overlay_image: "/assets/images/posts/eeg_02.JPG"
-  overlay_filter: rgba(150, 150, 150, 0.7)
+  overlay_filter: rgba(150, 150, 150, 0.3)
   #caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/)"
   #actions:
   #  - label: "Learn more"
