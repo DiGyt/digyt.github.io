@@ -4,7 +4,7 @@ excerpt: An exposition of a noise-induction experiment and investigation of comm
 header:
   teaser: "/assets/images/posts/ICA_topography_of_evil.png"
   overlay_image: "/assets/images/posts/ICA_topography_of_evil.png"
-  overlay_filter: rgba(200, 200, 200, 1)
+  overlay_filter: rgba(200, 200, 200, 0.3)
   #caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/)"
   #actions:
   #  - label: "Learn more"
