@@ -2,8 +2,8 @@
 title: "Automated EEG Cleaning - A Comparison"
 excerpt: A collection, explanation and comparison of various automated EEG cleaning algorithms.
 header:
-  #teaser: "/assets/images/posts/ICA_topography_of_evil.png"
-  #overlay_image: "/assets/images/posts/ICA_topography_of_evil.png"
+  teaser: "/assets/images/posts/eeg_ar_02.JPG"
+  overlay_image: "/assets/images/posts/eeg_ar_02.JPG"
   #caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/)"
   #actions:
   #  - label: "Learn more"
@@ -15,7 +15,7 @@ last_modified_at: 2021-06-14T10:22:00-04:00
 ---
 
 <style>
-iframe{height:19200px !important;}
+iframe{height:19500px !important;}
 </style>
 
 <script src="https://gist.github.com/DiGyt/bbe4d30a9310f5cb3bc1f067b0511685.js"></script>
