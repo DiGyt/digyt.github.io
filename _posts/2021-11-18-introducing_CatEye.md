@@ -16,7 +16,7 @@ last_modified_at: 2021-11-18T10:22:00-04:00
 ---
 
 <style>
-iframe{height:6500px !important;}
+iframe{height:3500px !important;}
 </style>
 
 Over the last years, I have been working a lot with classification of eye tracking data.
@@ -29,7 +29,7 @@ If this idea caught your attention, feel free to check out the repository, where
 
 <script src="https://gist.github.com/DiGyt/2e0e16f720ad3bb19d4d118b397e4c6e.js"></script>
 
-All functions within CatEye are thoroughly documented, you can have a look at the [CatEye documentation](https://digyt.github.io/cateye/cateye/index.html).
+Of course this is by far not everything you can do with CatEye. If you wonder what other functionality CatEye provides, you can check out the repository, or have a look at the [CatEye documentation](https://digyt.github.io/cateye/cateye/index.html).
 
 
 
