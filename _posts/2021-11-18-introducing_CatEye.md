@@ -1,6 +1,6 @@
 ---
 title: "Introducing: CatEye"
-excerpt: Unified Gaze Classification in Eye Tracking.
+excerpt: Unified Gaze Classification for Eye Tracking.
 header:
   teaser: "https://raw.githubusercontent.com/DiGyt/cateye/main/docs/files/imgs/cateye_header.png"
   overlay_image: "https://raw.githubusercontent.com/DiGyt/cateye/main/docs/files/imgs/cateye_header.png"
