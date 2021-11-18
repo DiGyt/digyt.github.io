@@ -30,7 +30,7 @@ If this idea caught your attention, feel free to check out the repository, where
 
 All functions within CatEye are thoroughly documented, you can have a look at the documentation website below.
 
-<iframe src="https://digyt.github.io/cateye/cateye/index.html" style="width:100%; height:300px"></iframe>
+<iframe src="https://digyt.github.io/cateye/cateye/index.html"></iframe>
 
 
 
