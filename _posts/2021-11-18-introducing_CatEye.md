@@ -26,12 +26,10 @@ As this problem deterred me and many of my lab members from actually using these
 
 If this idea caught your attention, feel free to check out the repository, where you can find everything you need to know about application, installation, as well as practical examples on how to directly apply gaze classification to your specific eye tracking project.
 
-<iframe src="https://raw.githubusercontent.com/DiGyt/cateye/main/README.md"></iframe>
-
 
 All functions within CatEye are thoroughly documented, you can have a look at the documentation website below.
 
-<iframe src="https://digyt.github.io/cateye/cateye/index.html" style="width:100%; height:300px></iframe>
+<iframe src="https://digyt.github.io/cateye/cateye/index.html" style="width:100%; height:300px"></iframe>
 
 
 
