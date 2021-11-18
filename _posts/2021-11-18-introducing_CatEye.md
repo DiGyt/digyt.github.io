@@ -20,4 +20,4 @@ iframe{height:16500px !important;}
 </style>
 
 <!--https://github.com/yusanshi/embed-like-gist This is a beautiful way of embedding stuff directly from github-->
-<script src="https://emgithub.com/DiGyt/cateye/blob/main/example_minimal_use.ipynb"></script>
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2FDiGyt%2Fcateye%2Fblob%2Fmain%2Fexample_minimal_use.ipynb&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
