@@ -16,7 +16,7 @@ last_modified_at: 2021-11-18T10:22:00-04:00
 ---
 
 <style>
-iframe{height:16500px !important;}
+iframe{height:6500px !important;}
 </style>
 
 Over the last years, I have been working a lot with classification of eye tracking data.
@@ -25,12 +25,11 @@ I found that there are tons of different gaze classification available out there
 
 The result of this work is the [CatEye](https://github.com/DiGyt/cateye) Toolbox. It does not allow you to test different gaze classification algorithms with very simple and standardized functions, it also provides some tools to easily handle and visualize eye tracking data, especially with respect to classification.
 
-If this idea caught your attention, feel free to check out the repository, where you can find everything you need to know about application, installation, as well as practical examples on how to directly apply gaze classification to your specific eye tracking project.
+If this idea caught your attention, feel free to check out the repository, where you can find everything you need to know about application, installation, as well as practical examples on how to directly apply gaze classification to your specific eye tracking project. Probably the best way to get an idea of how CatEye works, is by using our CatEye minimal example. You can inspect the intrdocutory example below, or click on the "Open in Colab" button, to run it in Google Colab's hosted runtime.
 
+<script src="https://gist.github.com/DiGyt/2e0e16f720ad3bb19d4d118b397e4c6e.js"></script>
 
-All functions within CatEye are thoroughly documented, you can have a look at the documentation website below.
-
-<iframe src="https://digyt.github.io/cateye/cateye/index.html"></iframe>
+All functions within CatEye are thoroughly documented, you can have a look at the [CatEye documentation](https://digyt.github.io/cateye/cateye/index.html).
 
 
 
