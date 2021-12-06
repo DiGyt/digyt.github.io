@@ -1,9 +1,9 @@
 ---
-title: "Introducing: CatEye"
+title: "Introducing: CatEyes"
 excerpt: Unified Gaze Classification for Eye Tracking.
 header:
-  teaser: "https://raw.githubusercontent.com/DiGyt/cateye/main/docs/files/imgs/cateye_header.png"
-  overlay_image: "https://raw.githubusercontent.com/DiGyt/cateye/main/docs/files/imgs/cateye_header.png"
+  teaser: "https://raw.githubusercontent.com/DiGyt/cateyes/main/docs/files/imgs/cateye_header.png"
+  overlay_image: "https://raw.githubusercontent.com/DiGyt/cateyes/main/docs/files/imgs/cateye_header.png"
   overlay_filter: rgba(150, 150, 150, 0.5)
   #caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/)"
   #actions:
@@ -23,13 +23,13 @@ Over the last years, I have been working a lot with classification of eye tracki
 
 I found that there are tons of different gaze classification available out there, but many of them took a terrible amount of installation, implementation, and data wrangling work until ready for application. If you had to apply gaze classification at one point in your career, you might know what I'm talking about. As this problem deterred me and many of my lab members from actually using these algorithms, I decided to unite all these different algorithms in one toolbox, and unite all their functionality into one simple and easily applicable workflow.
 
-The result of this work is the [CatEye](https://github.com/DiGyt/cateye) Toolbox. It does not allow you to test different gaze classification algorithms with very simple and standardized functions, it also provides some tools to easily handle and visualize eye tracking data, especially with respect to classification.
+The result of this work is the [CatEyes](https://github.com/DiGyt/cateyes) Toolbox. It does not allow you to test different gaze classification algorithms with very simple and standardized functions, it also provides some tools to easily handle and visualize eye tracking data, especially with respect to classification.
 
-If this idea caught your attention, feel free to check out the repository, where you can find everything you need to know about application, installation, as well as practical examples on how to directly apply gaze classification to your specific eye tracking project. Probably the best way to get an idea of how CatEye works, is by using our CatEye minimal example. You can inspect the intrdocutory example below, or click on the "Open in Colab" button, to run it in Google Colab's hosted runtime.
+If this idea caught your attention, feel free to check out the repository, where you can find everything you need to know about application, installation, as well as practical examples on how to directly apply gaze classification to your specific eye tracking project. Probably the best way to get an idea of how CatEyes works, is by using our CatEyes minimal example. You can inspect the intrdocutory example below, or click on the "Open in Colab" button, to run it in Google Colab's hosted runtime.
 
-<script src="https://gist.github.com/DiGyt/2e0e16f720ad3bb19d4d118b397e4c6e.js"></script>
+<script src="https://gist.github.com/DiGyt/65d8e15964b7ec144dd2ecf298f5bdc2.js"></script>
 
-Of course this is by far not everything you can do with CatEye. If you wonder what other functionality CatEye provides, you can check out the repository, or have a look at the [CatEye documentation](https://digyt.github.io/cateye/cateye/index.html).
+Of course this is by far not everything you can do with CatEyes. If you wonder what other functionality CatEyes provides, you can check out the repository, or have a look at the [CatEyes documentation](https://digyt.github.io/cateye/cateyes/index.html).
 
 
 
