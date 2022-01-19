@@ -16,7 +16,7 @@ last_modified_at: 2021-11-18T10:22:00-04:00
 ---
 
 <style>
-iframe{height:2500px !important;}
+iframe{height:2600px !important;}
 </style>
 
 Over the last years, I have been working a lot with classification of eye tracking data.
