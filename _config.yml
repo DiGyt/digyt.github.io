@@ -79,8 +79,8 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Dirk Gütlin # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://github.com/DiGyt"
     - "https://twitter.com/dirkgutlin"
@@ -110,7 +110,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dirkgutlin"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/dirk-g%C3%BCtlin-8999b022b/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -127,7 +127,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dirkgutlin"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/dirk-g%C3%BCtlin-8999b022b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
