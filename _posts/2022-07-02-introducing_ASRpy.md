@@ -16,7 +16,7 @@ last_modified_at: 2022-02-02T10:22:00-04:00
 ---
 
 <style>
-iframe{height:2600px !important;}
+iframe{height:2670px !important;}
 </style>
 
 Last Year, when I started comparing different EEG cleaning algorithms (see [this blog post](https://digyt.github.io/automated_EEG_cleaning_comparison/)),
