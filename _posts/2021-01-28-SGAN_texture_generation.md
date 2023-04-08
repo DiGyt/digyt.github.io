@@ -28,7 +28,31 @@ iframe{height:15700px !important;}
 
 <script src="https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js"></script>
 -->
-<iframe src="https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js" frameborder="0" scrolling="no" style="width: 100%; height: 0; padding-bottom: calc(100% / (16 / 9));"></iframe>
+<div id="gist-container"></div>
+
+<script>
+  // Replace with your GitHub Gist URL
+  const gistUrl = "https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js";
+
+  // Create the iframe
+  const iframe = document.createElement("iframe");
+  iframe.src = gistUrl + ".pibb";
+
+  // Set the styles to make the iframe responsive
+  iframe.style.width = "100%";
+  iframe.style.border = "none";
+
+  // Append the iframe to the container
+  const container = document.getElementById("gist-container");
+  container.appendChild(iframe);
+
+  // Resize the iframe when its content has loaded
+  iframe.onload = function () {
+    const contentHeight = iframe.contentWindow.document.body.scrollHeight;
+    iframe.style.height = contentHeight + "px";
+  };
+</script>
+
 
 <script src="https://gist.github.com/DiGyt/107a21458b83e05de67dd745addf3d40.js"></script>
 
