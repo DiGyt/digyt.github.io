@@ -4,7 +4,7 @@ excerpt: Artifact Subspace Reconstruction in Python.
 header:
   teaser: "/assets/images/posts/asrpy_clean_evoked.png"
   overlay_image: "/assets/images/posts/asrpy_clean_evoked.png"
-  #overlay_filter: rgba(150, 150, 150, 0.5)
+  overlay_filter: rgba(150, 150, 150, 0.5)
   #caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/)"
   #actions:
   #  - label: "Learn more"
