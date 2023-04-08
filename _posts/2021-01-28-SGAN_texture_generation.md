@@ -21,9 +21,12 @@ that, we provide another notebook including a Tensorflow implementation of the o
 SGAN architecture as well as the training procedure that we used to generate our textures.
 See for yourself and feel free trying out to train the network on your own texture images:
 
+<!--
 // <style>
 // iframe{height:15700px !important;}
 // </style>
+-->
+
 
 <style>
     script:nth-of-type(1) + iframe {
