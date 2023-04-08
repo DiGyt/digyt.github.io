@@ -10,7 +10,7 @@ header:
   #  - label: "Learn more"
   #    url: "https://commons.wikimedia.org/wiki/File:Card_games_and_game_tokens_01.jpg"
 tags:
-  - Statistic
+  - Statistics
   - Data Processing
   - Complex Systems
 last_modified_at: 2023-04-01T10:22:00-04:00
