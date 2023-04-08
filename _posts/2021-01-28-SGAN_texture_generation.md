@@ -21,16 +21,14 @@ that, we provide another notebook including a Tensorflow implementation of the o
 SGAN architecture as well as the training procedure that we used to generate our textures.
 See for yourself and feel free trying out to train the network on your own texture images:
 
+<!-- This is a comment 
 <style>
 iframe{height:15700px !important;}
 </style>
 
 <script src="https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js"></script>
+-->
+<iframe src="https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js" frameborder="0" scrolling="no" style="width: 100%; height: 0; padding-bottom: calc(100% / (16 / 9));"></iframe>
 
-<div>
-  <style>
-  iframe{height:6000px;}
-  </style>
+<script src="https://gist.github.com/DiGyt/107a21458b83e05de67dd745addf3d40.js"></script>
 
-  <script src="https://gist.github.com/DiGyt/107a21458b83e05de67dd745addf3d40.js"></script>
-</div>
