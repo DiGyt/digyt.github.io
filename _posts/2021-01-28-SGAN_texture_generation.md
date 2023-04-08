@@ -21,37 +21,12 @@ that, we provide another notebook including a Tensorflow implementation of the o
 SGAN architecture as well as the training procedure that we used to generate our textures.
 See for yourself and feel free trying out to train the network on your own texture images:
 
-<!-- This is a comment 
 <style>
 iframe{height:15700px !important;}
 </style>
 
 <script src="https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js"></script>
--->
-<div id="gist-container"></div>
 
-<script>
-  // Replace with your GitHub Gist URL
-  const gistUrl = "https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js";
-
-  // Create the iframe
-  const iframe = document.createElement("iframe");
-  iframe.src = gistUrl + ".pibb";
-
-  // Set the styles to make the iframe responsive
-  iframe.style.width = "100%";
-  iframe.style.border = "none";
-
-  // Append the iframe to the container
-  const container = document.getElementById("gist-container");
-  container.appendChild(iframe);
-
-  // Resize the iframe when its content has loaded
-  iframe.onload = function () {
-    const contentHeight = iframe.contentWindow.document.body.scrollHeight;
-    iframe.style.height = contentHeight + "px";
-  };
-</script>
 
 
 <script src="https://gist.github.com/DiGyt/107a21458b83e05de67dd745addf3d40.js"></script>
