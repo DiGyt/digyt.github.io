@@ -20,4 +20,4 @@ ___
 iframe{height:11220px !important;}
 </style>
 
-<script src="https://gist.github.com/DiGyt/c550f0f774a027740fb88945df3ad973.js"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FDiGyt%2Fsnippets%2Fblob%2Fmaster%2Fsnow_on_christmas.ipynb&style=default&type=ipynb&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
