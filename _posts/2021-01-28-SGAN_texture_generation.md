@@ -20,26 +20,23 @@ ipynb notebook, we describe the model and training results on different textures
 that, we provide another notebook including a Tensorflow implementation of the original 
 SGAN architecture as well as the training procedure that we used to generate our textures.
 See for yourself and feel free trying out to train the network on your own texture images:
-<!--
+
+// <style>
+// iframe{height:15700px !important;}
+// </style>
+
 <style>
-iframe{height:15700px !important;}
+    script:nth-of-type(1) + iframe {
+        height: 15700px;
+    }
+
+    script:nth-of-type(2) + iframe {
+        height: 6900px;
+    }
 </style>
 
+
 <script src="https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e.js"></script>
--->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-$(document).ready(function() {
-  $('iframe').on('load', function() {
-    var iframeHeight = $(this).contents().height();
-    $(this).height(iframeHeight);
-  });
-});
-</script>
-
-<iframe src="https://gist.github.com/DiGyt/fb8e7f6e8819a7d6eb870e4cd2c6414e"></iframe>
-
-
 
 <script src="https://gist.github.com/DiGyt/107a21458b83e05de67dd745addf3d40.js"></script>
 
