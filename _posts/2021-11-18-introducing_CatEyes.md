@@ -15,9 +15,9 @@ tags:
 last_modified_at: 2021-11-18T10:22:00-04:00
 ---
 
-<style>
-iframe{height:2600px !important;}
-</style>
+//<style>
+//iframe{height:2700px !important;}
+//</style>
 
 Over the last years, I have been working a lot with classification of eye tracking data.
 
@@ -27,7 +27,7 @@ The result of this work is the [CatEyes](https://github.com/DiGyt/cateyes) Toolb
 
 If this idea caught your attention, feel free to check out the repository, where you can find everything you need to know about application, installation, as well as practical examples on how to directly apply gaze classification to your specific eye tracking project. Probably the best way to get an idea of how CatEyes works, is by using our CatEyes minimal example. You can inspect the intrdocutory example below, or click on the "Open in Colab" button, to run it in Google Colab's hosted runtime.
 
-<script src="https://gist.github.com/DiGyt/65d8e15964b7ec144dd2ecf298f5bdc2.js"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FDiGyt%2Fcateyes%2Fblob%2Fmain%2Fexample_minimal_use.ipynb&style=default&type=ipynb&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
 Of course this is by far not everything you can do with CatEyes. If you wonder what other functionality CatEyes provides, you can check out the repository, or have a look at the [CatEyes documentation](https://digyt.github.io/cateye/cateyes/index.html).
 
