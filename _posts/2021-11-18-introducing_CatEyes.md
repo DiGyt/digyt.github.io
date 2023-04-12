@@ -15,10 +15,6 @@ tags:
 last_modified_at: 2021-11-18T10:22:00-04:00
 ---
 
-//<style>
-//iframe{height:2700px !important;}
-//</style>
-
 Over the last years, I have been working a lot with classification of eye tracking data.
 
 I found that there are tons of different gaze classification available out there, but many of them took a terrible amount of installation, implementation, and data wrangling work until ready for application. If you had to apply gaze classification at one point in your career, you might know what I'm talking about. As this problem deterred me and many of my lab members from actually using these algorithms, I decided to unite all these different algorithms in one toolbox, and unite all their functionality into one simple and easily applicable workflow.
