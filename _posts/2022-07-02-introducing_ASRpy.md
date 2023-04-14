@@ -15,9 +15,6 @@ tags:
 last_modified_at: 2022-02-02T10:22:00-04:00
 ---
 
-<style>
-iframe{height:2670px !important;}
-</style>
 
 Last Year, when I started comparing different EEG cleaning algorithms (see [this blog post](https://digyt.github.io/automated_EEG_cleaning_comparison/)),
 I was looking for a valid and trustworthy Python implementation of the original algorithm for Artifact Subspace Reconstruction.
@@ -33,8 +30,8 @@ in numpy and MATLAB. However, all other operations were perfectly replicating th
 The result can be found in my [ASRpy repository](https://github.com/DiGyt/asrpy). Information on the algorithm, installation and examples can be found 
 there.
 
-IF you want to know how to apply ASRpy to your own Python EEG data (either with MNE-Python or with numpy arrays), you can go through this tutorial:
-<script src="https://gist.github.com/DiGyt/5398a2a89a5f6159fb53cd62e41d988b.js"></script>
+IF you want to know how to apply ASRpy to your own Python EEG data (either with MNE-Python or with numpy arrays), you can go through this quick tutorial:
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FDiGyt%2Fasrpy%2Fblob%2Fmain%2Fexample.ipynb&style=default&type=ipynb&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
 
 <!--   style="width:100%; height:300px;"   https://github.com/yusanshi/embed-like-gist This is a beautiful way of embedding stuff directly from github
