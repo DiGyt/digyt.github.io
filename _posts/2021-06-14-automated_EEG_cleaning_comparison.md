@@ -15,8 +15,4 @@ tags:
 last_modified_at: 2021-06-14T10:22:00-04:00
 ---
 
-<style>
-iframe{height:16500px !important;}
-</style>
-
-<script src="https://gist.github.com/DiGyt/bbe4d30a9310f5cb3bc1f067b0511685.js"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FDiGyt%2Fsnippets%2Fblob%2Fmaster%2FEEG_compare_automated_cleaning.ipynb&style=default&type=ipynb&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
