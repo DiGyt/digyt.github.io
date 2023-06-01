@@ -16,8 +16,4 @@ last_modified_at: 2021-02-08T10:22:00-04:00
 
 ___
 
-<style>
-iframe{height:11900px !important;}
-</style>
-
-<script src="https://gist.github.com/DiGyt/1863d819fa7b40b6e7157a05ec18201c.js"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FDiGyt%2Fsnippets%2Fblob%2Fmaster%2Fwhat_is_noise.ipynb&style=default&type=ipynb&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
