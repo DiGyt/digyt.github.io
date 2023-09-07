@@ -5,7 +5,7 @@ layout: collection
 author_profile: true
 ---
 
-I'm a Master's student in Cognitive Science. I want to understand how the brain works
+I'm a PhD Student at the interface of Neuroscience and Artificial Intelligence. I want to understand how the brain works
 (at least a little bit) and to translate this understanding into formalized processes.
 This aim requires not only the study of the brain and other complex dynamical systems,
 but also studying the methods we use to gain insights about them: Data processing, 
