@@ -25,7 +25,7 @@ If this idea caught your attention, feel free to check out the repository, where
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FDiGyt%2Fcateyes%2Fblob%2Fmain%2Fexample_minimal_use.ipynb&style=default&type=ipynb&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
-Of course this is by far not everything you can do with CatEyes. If you wonder what other functionality CatEyes provides, you can check out the repository, or have a look at the [CatEyes documentation](https://digyt.github.io/cateye/cateyes/index.html).
+Of course this is by far not everything you can do with CatEyes. If you wonder what other functionality CatEyes provides, you can check out the repository, or have a look at the [CatEyes documentation](https://digyt.github.io/cateyes/index.html).
 
 
 
