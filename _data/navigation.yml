@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: 'Fractal Explorer ↗'
+    url: https://digyt.github.io/fractal_explorer/
+  - title: 'Journal Feed ↗'
+    url: https://digyt.github.io/science_feed/journal_feed.html
   - title: 'Home'
     url: /
   - title: 'Posts by Topic'
@@ -8,10 +12,6 @@ main:
     url: /about/
   - title: 'My CV'
     url: /cv/
-  - title: 'Journal Feed ↗'
-    url: https://digyt.github.io/science_feed/journal_feed.html
-  - title: 'Fractal Explorer ↗'
-    url: https://digyt.github.io/fractal_explorer/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
