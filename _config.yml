@@ -83,7 +83,7 @@ social:
   name                   : Dirk Gütlin # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://github.com/DiGyt"
-    - "https://twitter.com/dirkgutlin"
+    #- "https://twitter.com/dirkgutlin"
     - "https://www.linkedin.com/in/dirk-g%C3%BCtlin-8999b022b"
 
 
@@ -103,9 +103,9 @@ author:
   location         : # "Somewhere"
   email            : dirk.guetlin@gmail.com
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dirkgutlin"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/dirkgutlin"
     - label: "Bluesky"
       icon: "fa fa-solid fa-square light-blue-text"
       url: "https://bsky.app/profile/gutlin.bsky.social"
@@ -129,9 +129,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dirkgutlin"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/dirkgutlin"
     - label: "Bluesky"
       icon: "fa fa-solid fa-square light-blue-text"
       url: "https://bsky.app/profile/gutlin.bsky.social"
